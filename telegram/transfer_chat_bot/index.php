@@ -1,6 +1,0 @@
-sdfwefwefwefwefwesdsd
-<?php
-
-echo 'sssss';
-
-?>
